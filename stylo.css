@@ -3,6 +3,19 @@
 @import url('https://fonts.googleapis.com/css2? family= Cookie &família= Tajawal:wght@300 & display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cookie&family=Tajawal:wght@300;800&display=swap');
 
+
+
+ol li{
+    list-style: none;
+    display: inline-block;
+    text-transform: uppercase;
+    
+    
+}
+li a{
+    text-decoration:none;
+}
+
 .ses1{
     
     display: flex;
